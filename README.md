@@ -1,2 +1,2 @@
 # PMS_SM_MES_HAN
-the assignment of the Practice modeling and simulation home taken exam as part of the system modeling module in the Master engineering systems program in HAN university of applied sciences
+The assignment of the Practice modelling and simulation home taken exam as part of the system modelling module in the Master Engineering Systems program in HAN University of applied sciences, gets 10/10 for this solution.
